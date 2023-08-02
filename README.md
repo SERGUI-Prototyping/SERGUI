@@ -1,5 +1,7 @@
 # Self-Elicitation of Requirements using Automated GUI Prototyping
 
+[![DOI](https://zenodo.org/badge/672852774.svg)](https://zenodo.org/badge/latestdoi/672852774)
+
 The supplementary material of our submission to the ICSE 2024 conference is structured as follows:
 
 - **gui2r**: This directory contains the overall Python-based implementation of the GUI ranking models, GUI feature ranking and GUI feature recommendation approaches
